@@ -207,7 +207,7 @@ def main():
         user_stats(df)
         display_bikeshare_data(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart? Enter yes or no?\n')
         if restart.lower() != 'yes':
             break
 
@@ -216,3 +216,5 @@ if __name__ == "__main__":
 	main()
 
     #edits made to all for a commit
+
+
