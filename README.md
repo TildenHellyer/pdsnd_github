@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+04/06/20
 
 ### Project Title
-Replace the Project Title
+USA Bikeshare Analysis in Three Cities
 
 ### Description
-Describe what your project is about and what it does
+This program allows you to get high level statistics on bike riders in Washington, Chicago and NYC. You can investigate things like gender of the rider, the time they started the trip and what station it was and so on
 
 ### Files used
-Include the files used
+Files used were 3 csv files:
+1. washington.csv
+2. new_york_city.csv
+3. chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I have to thank Stackoverflow for so much help in figuring out some functions 
 
